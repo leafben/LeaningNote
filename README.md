@@ -1,2 +1,1 @@
-# alpha
-android leaning
+# Android Leaning
